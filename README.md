@@ -19,10 +19,12 @@ when the sites change/update.
 
 
 ### FAQ
-*Does it only work for supported sites ?*
+**Does it only work for supported sites ?**
+
 No, it will also run on unknown sites and try its best to remove popups. If you have any issues with a certain site you can always contact us with this [form](https://goo.gl/forms/4shqVwIRPgonvprr2).
 
-*I found a site that doesn't work, how do I add it to the supported list?*
+**I found a site that doesn't work, how do I add it to the supported list?**
+
 You can either send us the info through this [form](https://goo.gl/forms/4shqVwIRPgonvprr2) or through Github if you are familiar with it.
 
 
