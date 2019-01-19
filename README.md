@@ -31,4 +31,7 @@ You can either send us the info through this [form](https://goo.gl/forms/4shqVwI
 - www.businessinsider.com
 - www.nytimes.com
 - www.quora.com
+
+### Featured Sites That Works Out Of The Box
 - www.wired.com
+- www.pinterest.com
