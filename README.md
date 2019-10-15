@@ -30,8 +30,9 @@ You can either send us the info through this [form](https://goo.gl/forms/4shqVwI
 
 
 ### Supported Site List
-- www.businessinsider.com
-- www.nytimes.com
+- www.businessinsider.com (10/2019)
+- www.nytimes.com (10/2019)
+- www.forbes.com (10/2019)
 - www.quora.com
 
 ### Featured Sites That Works Out Of The Box
